@@ -6,4 +6,4 @@ Also I have added Bootstrap ***BUTTON* component** for internal navigation and m
 
 **Media query** is applied to all elements and entire website is mobile responsive.
 
-[This is the link to Project0](https://vs115.github.io/project0/Home.html)
+[This is the link to Project0](https://vps115.github.io/project0/Home.html)
